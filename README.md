@@ -18,7 +18,7 @@ Visualization is key to uncovering patterns and relationships within the data. W
 
 K-Means clustering is a powerful technique for grouping similar data points. We'll utilize this approach to segment our customers based on their characteristics. 
 
-**5. Selection of Clusters **
+**5. Selection of Clusters**
 
 Choosing the optimal number of clusters is crucial. We'll employ methods like the Elbow Method to determine the most fitting number of segments. 
 
